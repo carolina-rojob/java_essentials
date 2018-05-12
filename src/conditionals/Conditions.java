@@ -6,6 +6,7 @@ public class Conditions {
 
 	public static void main(String args[])
 	{
+		Input.print("Ingresa un valor: ");
 		int i = Input.get_int();
 		if (i < 0)
 		{

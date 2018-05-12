@@ -6,6 +6,7 @@ public class Logical {
 
 	public static void main(String args[])
 	{
+		Input.print("contesta y o n: ");
 		int c = Input.get_char();
 	    if (c == 'Y' || c == 'y')
 	    {

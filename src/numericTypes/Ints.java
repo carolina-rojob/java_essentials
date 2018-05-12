@@ -18,7 +18,7 @@ public class Ints {
 	    System.out.print(x + " plus " + y + " is " + (x + y) + "\n");
 	    System.out.print(x + " minus " + y + " is " + (x - y) + "\n");
 	    System.out.print(x + " times " + y + " is " + (x * y) + "\n");
-	    System.out.print(x + " divided by " + y + " is " + (x / y) + "\n");
+	    System.out.print(x + " divided by " + y + " is " + ((float)x / (float)y) + "\n");
 	    System.out.print("The reminder of " + x + " over "+ y + " is " + (x % y) + "\n");
 	}
 }

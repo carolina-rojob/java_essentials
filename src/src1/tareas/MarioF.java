@@ -1,21 +1,3 @@
-Implementa un programa que imprima una media piramide de una altura especificada por el usuario, como abajo:
-
-$ ./mario
-Altura: 5
-    ##
-   ###
-  ####
- #####
-######
-
-$ ./mario
-Altura: 3
-  ##
- ###
-####
-
-
-
 package src1.tareas;
 import libs.Input;
 public class MarioF {
